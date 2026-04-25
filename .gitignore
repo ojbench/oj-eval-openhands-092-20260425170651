@@ -1,0 +1,6 @@
+run_local
+*.o
+*.out
+*.log
+*.swp
+.DS_Store
